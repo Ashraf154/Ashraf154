@@ -1,6 +1,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Ashraf Ramadan, Flutter Developer from Egypt 🇪🇬
+# I'm Ashraf Ramadan 👨‍💻
+### Flutter Developer 📱 | Computer Science Student 🎓
+
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 ---
 
@@ -27,47 +30,81 @@ I'm Ashraf Ramadan, Flutter Developer from Egypt 🇪🇬
 
 ## 💡 About Me
 
-- 📱 Flutter Developer passionate about mobile applications
+- 📱 Flutter Developer passionate about building mobile applications
 - 🎓 Computer Science Student
 - 🌱 Currently learning Clean Architecture & State Management
 - 🔥 Interested in UI/UX and performance optimization
-- 🛠️ Worked with Firebase, Hive, APIs, and local storage
-- 🚀 Always building and learning new things
+- 🛠️ Worked with Firebase, Hive, REST APIs, and local storage
+- 🚀 Always learning and building new projects
 
 ---
 
 ## ⚡ GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=tokyonight" />
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&count_private=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-<a href="https://github.com/YOUR_USERNAME/Ecommerce-App" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Ecommerce-App&theme=tokyonight">
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME/Ecommerce-App">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Ecommerce-App&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/Notes-App" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Notes-App&theme=tokyonight">
+<a href="https://github.com/YOUR_USERNAME/Notes-App">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Notes-App&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/Task-Manager" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Task-Manager&theme=tokyonight">
+<a href="https://github.com/YOUR_USERNAME/Task-Manager">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Task-Manager&theme=tokyonight" />
 </a>
+
+</p>
 
 ---
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+<p align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+
+---
+
+## ✨ Quote
+
+> "Code. Learn. Build. Repeat." 🚀
