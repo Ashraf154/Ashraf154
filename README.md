@@ -71,12 +71,6 @@
 
 ---
 
-## 👀 Profile Views
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
-
----
-
 ## ✨ Quote
 
 > "Code. Learn. Build. Repeat." 🚀
