@@ -51,26 +51,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME/Ecommerce-App">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Ecommerce-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/Notes-App">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Notes-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/Task-Manager">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Task-Manager&theme=tokyonight" />
-</a>
-
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
@@ -87,14 +67,6 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 </p>
 
 ---
